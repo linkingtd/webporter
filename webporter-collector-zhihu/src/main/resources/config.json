@@ -3,10 +3,10 @@
     "domain": "www.zhihu.com",
     "headers": {
       "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36",
-      "authorization": "Your own authorization here."
+      "authorization": "Bearer 2|1:0|10:1503667608|4:z_c0|92:Mi4xR29sa0FBQUFBQUFBWUFKLUhFaEdEQ2NBQUFDRUFsVk5tTExIV1FBOTBiaVlwNUpSZTZFRnVXV3M4ZWJHM3BSMjRn|56c84b076339bf63c3ec714a8dba1686f51fa0d45ed7957f22f618523458c489"
     },
     "retryTimes": 3,
     "sleepTime": 500
   },
-  "base_dir": "/Users/brian/todo/zhihu-crawl/"
+  "base_dir": "/data/zhihu/"
 }
